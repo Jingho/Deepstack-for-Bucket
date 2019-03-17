@@ -1,6 +1,5 @@
 # Deepstack-bucket
 
-----
 
 This repository contains the code for running the experiments for the following paper:
 
@@ -13,8 +12,6 @@ This code is designed to:
 
 ## Dependencies
 
----
-
 - Python 3
 - Pyemd
 - Numpy
@@ -24,7 +21,6 @@ This code is designed to:
 
 ## How to Run
 
----
 
 - generate data
 
@@ -81,7 +77,6 @@ This code is designed to:
 
 ## Algorithm
 
----
 
 This is the first algorithm for computing potential-aware imperfect-recall abstractions, using EMD as the distance metric. Experiments on no-limit Texas Hold’em show that our algorithm leads to a statistically significant improvement in performance over the previously best abstraction algorithm.
 
