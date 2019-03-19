@@ -1,4 +1,4 @@
-# Deepstack-bucket
+# Deepstack for Bucket
 
 
 This repository contains the code for running the experiments for the following paper:
